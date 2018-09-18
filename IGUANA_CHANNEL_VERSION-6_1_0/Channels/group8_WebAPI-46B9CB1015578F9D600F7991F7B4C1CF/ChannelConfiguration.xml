@@ -1,0 +1,27 @@
+<channel
+   name="group8_WebAPI"
+   guid="46B9CB1015578F9D600F7991F7B4C1CF"
+   description=""
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_channel>
+   </to_channel>
+   <from_http
+      type="mapper"
+      guid="group8_WebAPI-FromHTTP-az32flOqSABhd0"
+      commit_id="a517122dce140a63ea2503e5aaca2e3467c310d9"
+      commit_comment="Import Translators: 8"
+      mapper_url_path="iucwebdevgroup8"/>
+   <message_filter
+      filter_after_logging="false"
+      log_pre_post_filter_message="true"
+      keep_vmd_updated="false"
+      original_vmd_path=""
+      filter_vmd_path=""
+      transformation_mode="0"
+      scripted_transformation_configuration_name="default"
+      error_handling="0"
+      use_translator_filter="true">
+   </message_filter>
+</channel>
