@@ -7,8 +7,8 @@
    use_message_filter="false">
    <to_mapper
       guid="group8_Channel2-To-D4499u7zoWn66r"
-      commit_id="ee4d50016e5d30eacc9084caf2b0c6c367061a81"
-      commit_comment="8-2">
+      commit_id="7e5846c9f1d8e62c0cf4ba8d8e1f45c0a5b9bfde"
+      commit_comment="Updated groupname">
       <dequeue_list>
          <dequeue
             source_name="group8_Channel1"
